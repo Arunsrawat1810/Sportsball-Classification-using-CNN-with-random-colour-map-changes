@@ -1,4 +1,4 @@
-### Sportsball-Classification-using-CNN-with-random-colour-map-changes
+## Sportsball-Classification-using-CNN-with-random-colour-map-changes
 
 This repository contains the code and data for the final assignment in the Machine Learning course, focusing on image classification of sportsballs. The task is divided into three parts, each with specific objectives and methodologies to compare the performance of classification models under different conditions.
 
